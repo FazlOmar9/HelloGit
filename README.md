@@ -12,3 +12,8 @@ arr.append("I am loving this")
 ```
 - [x] Kinda know my shit 
 - [ ] Become a master at my shit
+
+```py
+print("confused")
+bringHelp()
+```
