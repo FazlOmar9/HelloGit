@@ -10,5 +10,5 @@ arr.append("I am loving this")
 ```diff
 + respect
 ```
-- [x] Know your shit 
+- [x] Kinda know my shit 
 - [ ] Become a master
