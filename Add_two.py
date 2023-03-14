@@ -1,1 +1,1 @@
-print(sum(list(map(int, input("Enter numbers: ").split()))))
+print(sum(list(map(int, input("Enter few numbers: ").split()))))
