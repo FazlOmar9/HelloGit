@@ -1,4 +1,4 @@
-# My first repo
+# Cool repo
 Hi human! This is my first ever markdown file, so I'll be trying wierd things out !
 
 ```py
