@@ -1,5 +1,3 @@
-#This program prints the shape of an equilateral triangle using 'A's
-
 #Store the number of rows (height) and columns (width) of the triangle in variables
 rows = 15
 columns = 15
